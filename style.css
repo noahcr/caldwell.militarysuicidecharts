@@ -1,0 +1,79 @@
+body {
+	padding: 3% 10% 3% 10%;
+	max-width: 1200 px;
+	margin: auto;
+}
+
+img {
+	max-width: 750px;
+	height: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	width:200px;
+}
+
+.headline{
+	margin: auto;
+	font-family: "Georgia", serif;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.subhead{
+	margin: auto;
+	text-align: center;
+	font-family: "Georgia", serif;
+	font-size: 1.3em;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+.body{
+	margin: auto;
+	text-align: left;
+	font-family: "Georgia", serif;
+	font-size: 1em;
+	padding-top:5px;
+	padding-bottom: 25px;
+	padding-left: 3%;
+}
+
+.content{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.byline{
+	margin: auto;
+	font-family: "Georgia", serif;
+	font-size: .8em;
+	padding-top: 25px;
+	text-align: center;
+	font-style: italic;
+}
+
+.gallery{
+	font-family: "Georgia", serif;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
