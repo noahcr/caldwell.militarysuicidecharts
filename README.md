@@ -2,7 +2,7 @@
 
 Behind the Scenes - Active Duty Soldiers More Likely To Commit Suicide
 
-In January, I stumbled upon the U.S. Department of Defense’s annual Suicide Event Report (SER), and started to poke around. The data was incredibly granular, documenting every tiny detail for every suicide completed or attempted by active duty soldiers - their living situation at the time, their combat history, their recent relationships. 
+In January, I stumbled upon the U.S. Department of Defense’s annual <a href="http://www.dspo.mil/SuicideData/DoDSERAnnualReports.aspx">Suicide Event Report</a> (SER), and started to poke around. The data was incredibly granular, documenting every tiny detail for every suicide completed or attempted by active duty soldiers - their living situation at the time, their combat history, their recent relationships. 
 
 A few things jumped out. Soldiers are far more likely to kill themselves with a firearm than by any other method (over 70% in 2014, for example). Conversely, soldiers who didn’t use a gun were far more likely to survive the incident. Given these two points, it’s unsurprising to see that the presence of a gun in the home was far more likely in “completed” suicides (there isn’t a much more graceful way to differentiate from “attempts,” unfortunately). 
 
