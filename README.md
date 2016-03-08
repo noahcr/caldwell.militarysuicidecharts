@@ -1,6 +1,6 @@
-# caldwell.interactive
+# Behind the Scenes
 
-Behind the Scenes - Active Duty Soldiers More Likely To Commit Suicide
+Active Duty Soldiers More Likely To Commit Suicide
 
 In January, I stumbled upon the U.S. Department of Defense’s annual <a href="http://www.dspo.mil/SuicideData/DoDSERAnnualReports.aspx">Suicide Event Report</a> (SER), and started to poke around. The data was incredibly granular, documenting every tiny detail for every suicide completed or attempted by active duty soldiers - their living situation at the time, their combat history, their recent relationships. 
 
